@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Community Platform</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="logo">Community Connect</div>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Events</a></li>
+        <li><a href="#">Groups</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Login</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section class="search">
+      <h1>Find Posts in Your Community</h1>
+      <input type="text" id="searchBox" placeholder="Search for posts..." />
+    </section>
+    <section class="posts">
+      <h2>Community Posts</h2>
+      <div id="postContainer">
+        <div class="post">
+          <h3>Community Cleanup</h3>
+          <p>Join us this weekend for a park cleanup event!</p>
+        </div>
+        <div class="post">
+          <h3>Lost: Black Cat</h3>
+          <p>Have you seen our cat near Maple Street? Contact us!</p>
+        </div>
+        <div class="post">
+          <h3>Free Books Available</h3>
+          <p>Giving away a collection of novels. DM for pickup details.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Community Connect. All rights reserved.</p>
+  </footer>
+  <script>
+    const searchBox = document.getElementById('searchBox');
+    const posts = document.querySelectorAll('.post');
+
+    searchBox.addEventListener('input', () => {
+      const query = searchBox.value.toLowerCase();
+      posts.forEach(post => {
+        const text = post.textContent.toLowerCase();
+        post.style.display = text.includes(query) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
