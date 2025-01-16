@@ -3,7 +3,7 @@
 
 
 
-![MirzapurMunnaBhaiyaGIF](https://github.com/user-attachments/assets/b0bbd2e3-b34a-411f-a57a-9a760333874b)
+![PoweredXPeoplePoweredByPeopleGIF](https://github.com/user-attachments/assets/594105ab-9504-4ee5-b7a9-94cce28b6443)
 
 
 🏡 Overview
