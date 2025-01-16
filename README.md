@@ -3,7 +3,7 @@
 
 
 
-[MirzapurMunnaBhaiyaGIF](https://github.com/user-attachments/assets/b0bbd2e3-b34a-411f-a57a-9a760333874b)
+![MirzapurMunnaBhaiyaGIF](https://github.com/user-attachments/assets/b0bbd2e3-b34a-411f-a57a-9a760333874b)
 
 
 🏡 Overview
@@ -31,6 +31,10 @@ Neighbor Assistance: Post and respond to requests for help, like borrowing tools
 
 Urgent Alerts: Instantly notify the community about immediate needs, such as locating a lost pet or reporting safety concerns.
 
+![Chu2YellingGIF](https://github.com/user-attachments/assets/1290cc33-fc02-489a-88f1-870c0f8560ac)
+![IHaveVirtuallyUnlimitedResorcesResourcesGIF](https://github.com/user-attachments/assets/0e7671ed-673f-4444-bc50-6fd08d4381cf)
+
+
 
 
 ♻️ 3. Resource Sharing
@@ -46,6 +50,9 @@ Customizable Groups: Join or create groups centered around shared interests like
 
 Dedicated Messaging: Interactive chat spaces enable group members to collaborate and communicate effectively.
 
+
+![MingyuThe8GIF](https://github.com/user-attachments/assets/97f66fbd-4601-4d3c-ac2c-dff53acbcd2f)
+![GrunkGIF](https://github.com/user-attachments/assets/39c37c7b-0104-4a70-9118-419eb073a3ec)
 
 
 🔔 5. Real-Time Notifications
