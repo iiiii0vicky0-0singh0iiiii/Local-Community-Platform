@@ -200,7 +200,7 @@ Activity Timeline: Display recent posts, joined groups, and event participation.
 
 Privacy Dashboard: Simplified controls for managing visibility and data sharing.
 
-## Future Enhancements
+# Future Enhancements
 
 
 
