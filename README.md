@@ -1,4 +1,4 @@
-#🌟 Local Community Platform
+# 🌟 Local Community Platform
 
 
 
@@ -7,14 +7,14 @@
 
 
 
-#🏡 Overview
+# 🏡 Overview
 
 The Local Community Platform is an innovative online hub designed to foster engagement and collaboration within neighborhoods. Serving as a one-stop destination, it empowers neighbors to connect, share resou!
 rces, organize events, and stay informed about their local area. By leveraging cutting-edge technology and a user-friendly design, the platform encourages stronger community ties and promotes a sense of belonging.
 
 
 
-#🚀 Key Features
+# 🚀 Key Features
 
 #🎉 1. Event Organization
 
