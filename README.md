@@ -144,21 +144,21 @@ Boosts local businesses through community promotions.
 
 # 💻 Technologies Used
 
-Frontend:
+## Frontend:
 
 HTML, CSS, JavaScript: Core web technologies for seamless user interaction.
 
 Framework: React or Angular for dynamic and responsive interfaces.
 
 
-Backend:
+## Backend:
 
 Node.js or Python (Django/Flask): Robust server-side frameworks for efficient data handling.
 
 Database: PostgreSQL or MongoDB for reliable and scalable data storage.
 
 
-Additional Tools:
+## Additional Tools:
 
 Push Notifications: Firebase ensures timely updates.
 
@@ -168,9 +168,9 @@ Hosting: AWS or Azure provide secure and scalable hosting solutions.
 
 
 
-🎨 Visual Enhancements
+# 🎨 Visual Enhancements
 
-🏠 Enhanced Home Page:
+# 🏠 Enhanced Home Page:
 
 Dynamic Dashboard: Displays trending events, announcements, and quick access to groups.
 
@@ -178,7 +178,7 @@ Interactive Widgets: Weather updates, local news, and user activity highlights.
 
 
 
-Event Page:
+## Event Page:
 
 Interactive Calendar: Allows users to view and RSVP to events with ease.
 
@@ -186,7 +186,7 @@ Event Details: Includes descriptions, locations, and organizer information.
 
 
 
-Group Page:
+## Group Page:
 
 Customizable Banners: Personalize group pages with unique designs.
 
@@ -194,39 +194,39 @@ Member Interaction Tools: Simplified tools for polls, chats, and event planning.
 
 
 
-Profile Page:
+## Profile Page:
 
 Activity Timeline: Display recent posts, joined groups, and event participation.
 
 Privacy Dashboard: Simplified controls for managing visibility and data sharing.
 
-Future Enhancements
+## Future Enhancements
 
 
 
-AI-Driven Recommendations:
+## AI-Driven Recommendations:
 
 Personalized suggestions for events, groups, and posts based on user activity.
 
 
 
-Gamification Elements:
+## Gamification Elements:
 
 Reward points and badges for active participation to boost engagement.
 
 
 
-Localization Options:
+## Localization Options:
 
 Multi-language support for diverse and inclusive communities.
 
-Dedicated Mobile App:
+## Dedicated Mobile App:
 
 Optimized iOS and Android apps for improved accessibility and user experience.
 
 
 
-Augmented Reality (AR) Features:
+## Augmented Reality (AR) Features:
 
 Interactive AR maps for event locations and local landmarks.
 
