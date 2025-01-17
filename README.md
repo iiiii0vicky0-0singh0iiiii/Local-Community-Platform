@@ -1,12 +1,6 @@
 # 🌟 Local Community Platform
 
 
-
-
-![MirzapurTeluguGIF](https://github.com/user-attachments/assets/c4e0afe1-c1dd-4cfb-adf7-8c76efa111f1)
-
-
-
 # 🏡 Overview
 
 The Local Community Platform is an innovative online hub designed to foster engagement and collaboration within neighborhoods. Serving as a one-stop destination, it empowers neighbors to connect, share resou!
