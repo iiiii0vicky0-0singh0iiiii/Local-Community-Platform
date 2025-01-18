@@ -194,34 +194,6 @@ Activity Timeline: Display recent posts, joined groups, and event participation.
 
 Privacy Dashboard: Simplified controls for managing visibility and data sharing.
 
-# Future Enhancements
 
-
-
-## AI-Driven Recommendations:
-
-Personalized suggestions for events, groups, and posts based on user activity.
-
-
-
-## Gamification Elements:
-
-Reward points and badges for active participation to boost engagement.
-
-
-
-## Localization Options:
-
-Multi-language support for diverse and inclusive communities.
-
-## Dedicated Mobile App:
-
-Optimized iOS and Android apps for improved accessibility and user experience.
-
-
-
-## Augmented Reality (AR) Features:
-
-Interactive AR maps for event locations and local landmarks.
 
 
