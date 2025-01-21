@@ -12,7 +12,7 @@ rces, organize events, and stay informed about their local area. By leveraging c
 
 # 🎉 1. Event Organization
 
-![MunnaBhaiyaMunnaBhaiMbbsGIF](https://github.com/user-attachments/assets/869f29eb-20be-4597-acb1-dcca2f01046a)
+
 
 Community Events: Users can easily create, promote, and RSVP to local events such as block parties, charity drives, or workshops.
 
@@ -24,7 +24,7 @@ Shared Calendars: A community calendar provides a comprehensive view of upcoming
 
 # 🆘 2. Help Requests
 
-![Chu2YellingGIF](https://github.com/user-attachments/assets/1290cc33-fc02-489a-88f1-870c0f8560ac)
+
 
 Neighbor Assistance: Post and respond to requests for help, like borrowing tools, babysitting, or moving assistance.
 
