@@ -1,7 +1,7 @@
 // Create the main container
 document.body.style.margin = "0";
 document.body.style.fontFamily = "'Comic Sans MS', cursive, sans-serif";
-document.body.style.background = "linear-gradient(to right, #ff9a9e, #fad0c4, #fbc2eb)";
+document.body.style.background = "linear-gradient(to right,rgb(13, 181, 248),rgb(10, 83, 193), #fbc2eb)";
 document.body.style.color = "#333";
 document.body.style.overflowX = "hidden";
 
@@ -19,7 +19,7 @@ const logo = document.createElement("div");
 logo.textContent = "Community Connect";
 logo.style.fontSize = "2em";
 logo.style.fontWeight = "bold";
-logo.style.textShadow = "2px 2px #ffcccb";
+logo.style.textShadow = "2px 2pxrgb(49, 11, 243)";
 
 const nav = document.createElement("nav");
 const navList = document.createElement("ul");
@@ -58,7 +58,7 @@ searchSection.style.textAlign = "center";
 const searchTitle = document.createElement("h1");
 searchTitle.textContent = "Find Posts in Your Community";
 searchTitle.style.color = "#ff6b6b";
-searchTitle.style.textShadow = "2px 2px #ffe0e0";
+searchTitle.style.textShadow = "2px 2pxrgb(116, 91, 243)";
 
 searchSection.appendChild(searchTitle);
 
@@ -69,7 +69,7 @@ searchBox.style.width = "80%";
 searchBox.style.padding = "15px";
 searchBox.style.marginTop = "10px";
 searchBox.style.fontSize = "1em";
-searchBox.style.border = "2px solid #ff6b6b";
+searchBox.style.border = "2px solidrgb(18, 76, 210)";
 searchBox.style.borderRadius = "25px";
 searchBox.style.outline = "none";
 searchBox.style.transition = "box-shadow 0.3s";
@@ -84,7 +84,7 @@ const postsSection = document.createElement("section");
 const postsTitle = document.createElement("h2");
 postsTitle.textContent = "Community Posts";
 postsTitle.style.color = "#ff6b6b";
-postsTitle.style.textShadow = "1px 1px #ffe0e0";
+postsTitle.style.textShadow = "1px 1pxrgb(11, 125, 255)";
 postsTitle.style.textAlign = "center";
 postsSection.appendChild(postsTitle);
 
@@ -98,13 +98,13 @@ const posts = [
 
 posts.forEach((post) => {
   const postDiv = document.createElement("div");
-  postDiv.style.border = "2px solid #ff6b6b";
+  postDiv.style.border = "2px solidrgb(12, 188, 247)";
   postDiv.style.padding = "15px";
   postDiv.style.margin = "15px auto";
   postDiv.style.borderRadius = "15px";
   postDiv.style.backgroundColor = "#ffe0e0";
   postDiv.style.width = "80%";
-  postDiv.style.boxShadow = "0px 4px 8px rgba(0, 0, 0, 0.1)";
+  postDiv.style.boxShadow = "0px 4px 8px rgba(16, 41, 236, 0.1)";
   postDiv.style.transition = "transform 0.3s";
   postDiv.addEventListener("mouseover", () => (postDiv.style.transform = "scale(1.05)"));
   postDiv.addEventListener("mouseout", () => (postDiv.style.transform = "scale(1)"));
