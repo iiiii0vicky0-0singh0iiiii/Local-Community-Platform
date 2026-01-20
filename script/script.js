@@ -15,7 +15,7 @@ searchBar.addEventListener('input', () => {
     post.style.display = isVisible ? 'block' : 'none';
   });
 });
-// Button animation
+// 
 const highlightButton = document.querySelector('.btn-highlight');
 highlightButton.addEventListener('click', () => {
   highlightButton.textContent = 'Joined!';

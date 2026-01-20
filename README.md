@@ -10,7 +10,7 @@ rces, organize events, and stay informed about their local area. By leveraging c
 
 # 🚀 Key Features
 
-# 🎉 1. Event Organization
+# 🎉 1. Event organization
 
 
 
@@ -112,7 +112,7 @@ Stay Informed: Enable notifications for real-time updates on community activitie
 
 # 🌈 Benefits
 
-# 🌟 1. Social Impact
+## 🌟 1. Social Impact
 
 Facilitates stronger connections and trust among neighbors.
 
